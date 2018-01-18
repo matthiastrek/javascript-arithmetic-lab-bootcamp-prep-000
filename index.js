@@ -1,5 +1,5 @@
 function makeInt(p){
-  parseInt(p)
+  parseInt(p, 10)
   return p
 }
 
