@@ -14,17 +14,17 @@ function add(a, b){
 }
 
 function subtract(a, b){
-  x = a - b
+  var x = a - b
   return x
 }
 
 function multiply (a, b){
-  product = a*b
+  var product = a*b
   return product
 }
 
 function divide(a, b){
-  v = a/b
+  var v = a/b
   return v
 }
 
@@ -33,7 +33,7 @@ function inc(n){
   return n
 }
 
-function dec(n) {
-  n -= 1
-  return n
+function dec(m) {
+  m -= 1
+  return m
 }
