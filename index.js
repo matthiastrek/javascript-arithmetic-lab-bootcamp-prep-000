@@ -1,10 +1,10 @@
 function makeInt(p){
-  l = parseInt(p, 10)
+  var l = parseInt(p, 10)
   return l
 }
 
 function preserveDecimal(n){
-  o = parseFloat(n)
+  var o = parseFloat(n)
   return o
 }
 
