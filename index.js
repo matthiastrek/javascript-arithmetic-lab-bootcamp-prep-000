@@ -9,7 +9,7 @@ function preserveDecimal(n){
 }
 
 function add(a, b){
-  sum = a + b
+  var sum = a + b
   return sum
 }
 
