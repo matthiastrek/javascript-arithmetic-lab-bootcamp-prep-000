@@ -1,6 +1,6 @@
-function makeInt(n){
-  parseInt(n)
-  return n
+function makeInt(p){
+  parseInt(p)
+  return p
 }
 
 function preserveDecimal(n){
