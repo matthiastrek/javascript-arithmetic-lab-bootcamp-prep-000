@@ -1,11 +1,11 @@
 function makeInt(p){
-  parseInt(p, 10)
-  return p
+  l = parseInt(p, 10)
+  return l
 }
 
 function preserveDecimal(n){
-  parseFloat(n)
-  return n
+  o = parseFloat(n)
+  return o
 }
 
 function add(a, b){
